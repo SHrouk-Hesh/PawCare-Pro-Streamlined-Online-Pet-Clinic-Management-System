@@ -1,0 +1,25 @@
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Projecrtففt.csproj.AssemblyReference.cache
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Projecrtففt.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Project.exe
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Project.pdb
+F:\Study\ZaharaPROJECT\Bmd302Project\bin\Debug\Bmd302Project.exe.config
+F:\Study\ZaharaPROJECT\Bmd302Project\bin\Debug\Bmd302Project.exe
+F:\Study\ZaharaPROJECT\Bmd302Project\bin\Debug\Bmd302Project.pdb
+F:\Study\ZaharaPROJECT\Bmd302Project\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Study\ZaharaPROJECT\Bmd302Project\bin\Debug\Guna.UI.dll
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Projecrtففt.csproj.AssemblyReference.cache
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.AdminOnDoctorView.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.AdminOnRec.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.Dashboard.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.logIn.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.Properties.Resources.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Projecrtففt.csproj.GenerateResource.cache
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Projecrtففt.csproj.CoreCompileInputs.cache
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Projecrtففt.csproj.CopyComplete
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.exe
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.pdb
+F:\Study\ZaharaPROJECT\Bmd302Project\bin\Debug\Guna.UI2.dll
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.Prescriptions.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.Pets.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Project.Resources.History.resources
+F:\Study\ZaharaPROJECT\Bmd302Project\obj\Debug\Bmd302Projecrtففt.csproj.SuggestedBindingRedirects.cache

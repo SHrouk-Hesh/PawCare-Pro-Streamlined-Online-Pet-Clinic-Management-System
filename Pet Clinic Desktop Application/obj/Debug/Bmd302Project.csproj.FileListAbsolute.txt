@@ -1,0 +1,23 @@
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\bin\Debug\Bmd302Project.exe.config
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\bin\Debug\Bmd302Project.exe
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\bin\Debug\Bmd302Project.pdb
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.Properties.Resources.resources
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.csproj.GenerateResource.cache
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.csproj.CoreCompileInputs.cache
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.csproj.CopyComplete
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.exe
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.pdb
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\bin\Debug\Guna.UI.dll
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.Doctor.resources
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.rec.resources
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.csproj.AssemblyReference.cache
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.AdminOnDoctorView.resources
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.AdminOnRec.resources
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.Dashboard.resources
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.logIn.resources
+C:\Users\20100\source\repos\Bmd302Project\Bmd302Project\obj\Debug\Bmd302Project.Billing.resources
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Project.csproj.AssemblyReference.cache
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Project.exe
+C:\Users\ZAHRAA\OneDrive - Nile University\Desktop\clinical bmd\Bmd302Project\obj\Debug\Bmd302Project.pdb
